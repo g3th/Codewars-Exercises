@@ -11,4 +11,6 @@ Examples:
 * 'abcdef' => ['ab', 'cd', 'ef']
 ```
 
-Takes user input, enter a string, and it will split the string as required. This will not work on the site, mostly due to "using namespace std" and other stupid stuff which they don't allow (for some reason).
+Takes user input, enter a string, and it will split the string as required. 
+
+This will not work on the site, mostly due to "using namespace std" and other stupid stuff which they don't allow (for some reason).
