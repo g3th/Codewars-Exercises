@@ -27,3 +27,20 @@ Takes user input, enter a string, and it will reverse each word while keeping it
 
 Reversing the entire string would have been trivial of course, even without 'reverse', but this is slightly more involved.
 
+### Exercise 3 (sumodd.cpp)
+
+``` Given the triangle of consecutive odd numbers:
+
+             1
+          3     5
+       7     9    11
+   13    15    17    19
+21    23    25    27    29
+...
+Calculate the sum of the numbers in the nth row of this triangle (starting at index 1) e.g.: (Input --> Output)
+
+1 -->  1
+2 --> 3 + 5 = 8
+```
+
+Simple cubed calculation.
