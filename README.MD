@@ -1,5 +1,5 @@
 # Codewars Exercises
-## Solving problems given on the popular sit
+## Solutions to Problems Given on codewars.com
 
 ### Exercise 1 (split_string.cpp)
 
