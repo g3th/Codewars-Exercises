@@ -1,4 +1,4 @@
-# Codewars Beginner Stuff
+# Codewars Exercises
 ## Solving problems given on the popular sit
 
 ### Exercise 1 (split_string.cpp)
