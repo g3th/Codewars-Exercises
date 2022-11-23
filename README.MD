@@ -81,7 +81,7 @@ This was quite involved, due to the amount of rules given. As stated, give an ar
 
 All required tests pass, and it is valid, but something might be said about efficiency.
 
-### Exercise 5 (sumodd.cpp)
+### Exercise 5 (count.cpp)
 
 ``` 
 DESCRIPTION:
