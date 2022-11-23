@@ -80,3 +80,13 @@ If you are given an array with multiple answers, return the lowest correct index
 This was quite involved, due to the amount of rules given. As stated, give an array of various numbers, then add them up as required (increasing/decreasing indexes from right to left), store the sum in a container, compare the values, and return the index where the values match. If there are no matching values return -1.
 
 All required tests pass, and it is valid, but something might be said about efficiency.
+
+### Exercise 5 (sumodd.cpp)
+
+``` DESCRIPTION:
+The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
+
+What if the string is empty? Then the result should be empty object literal, {}.
+```
+
+As the description says, counts how many chars are present in a given string. It is way too long and a simpler solution is commented out.
